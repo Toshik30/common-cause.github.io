@@ -3,7 +3,7 @@
 <!-- Общее Дело -->
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=`device-width`, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Регистрация - Общее дело</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700&amp;subset=cyrillic,cyrillic-ext"
@@ -26,7 +26,8 @@
                 });
             </script>
             <noscript><div><img src="https://mc.yandex.ru/watch/64980856" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-        <!-- /Yandex.Metrika counter --> </head>
+        <!-- /Yandex.Metrika counter --> 
+</head>
 
 <body class="reg-body">
     <style>
